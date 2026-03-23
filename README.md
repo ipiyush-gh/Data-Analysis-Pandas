@@ -15,6 +15,6 @@ Analyze sales data using Python and extract meaningful insights.
 - Data Visualization
 
 # Files Included
-- data_analysis.py
+- data_analysis.ipynb
 - sales_data.csv
-- Task1_Data_Analysis.pdf
+- Data Analysis Project.pdf
