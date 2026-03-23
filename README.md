@@ -12,9 +12,13 @@ Analyze sales data using Python and extract meaningful insights.
 # Features
 - Data Cleaning
 - Data Analysis
+- Data Grouping
 - Data Visualization
 
 # Files Included
 - data_analysis.ipynb
 - sales_data.csv
 - Data Analysis Project.pdf
+
+# Output
+The project provides insights into sales performance by category and city.
