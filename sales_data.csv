@@ -1,0 +1,13 @@
+OrderID,Product,Category,Sales,Quantity,City
+1,Laptop,Electronics,800,1,Mumbai
+2,Shirt,Clothing,300,2,Pune
+3,Phone,Electronics,600,1,Delhi
+4,Shoes,Footwear,400,2,Mumbai
+5,Watch,Accessories,200,1,Pune
+6,Laptop,Electronics,900,1,Delhi
+7,Shirt,Clothing,250,3,Mumbai
+8,Shoes,Footwear,450,2,Pune
+9,Phone,Electronics,700,1,Mumbai
+10,Watch,Accessories,150,1,Delhi
+11,Phone,Accessories,null,5,Mumbai
+
